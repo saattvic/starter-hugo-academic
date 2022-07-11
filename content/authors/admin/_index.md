@@ -1,7 +1,7 @@
 ---
 title: Saattvic
 role: PhD Student
-avatar_filename: saatvik-23may2021-6696-edit01.jpg
+avatar_filename: avatar.jpg.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
