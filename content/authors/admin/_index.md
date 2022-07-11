@@ -25,8 +25,7 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: SBE Division, Sauder School of Business, University of British Columbia
 education:
   courses:
     - course: PhD in Artificial Intelligence
@@ -38,7 +37,7 @@ education:
     - course: BSc in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2008
-email: ""
+email: saattvic@sauder.ubc.ca
 superuser: true
 highlight_name: true
 ---
